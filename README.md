@@ -34,6 +34,9 @@ Pour installer l'application MultiPDF Chat, veuillez suivre ces étapes :
 ```commandline
 OPENAI_API_KEY=your_secrit_api_key
 ```
+4. Obtenez une deux clés AWS sur la partie IAM et faites en sorte que le user a au moins droit à AmazonS3FullAccess. 
+
+5. Pour les documnets à telecharger faites un bucket s3 sur Amazon s3 et gardez le nom que vous allez donner à ce bucket.
 
 ## Utilisation
 -----
