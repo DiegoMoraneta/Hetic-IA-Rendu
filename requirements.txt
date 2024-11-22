@@ -23,5 +23,7 @@ tiktoken==0.4.0
 
 # To install the required packages, run the following commands in the terminal:
 # pip install streamlit pypdf2 langchain python-dotenv faiss-cpu openai huggingface_hub
+
+# In case you are missing some packages for huggingFace :
 # pip install -U langchain-community
 # pip install InstructorEmbedding sentence_transformers
