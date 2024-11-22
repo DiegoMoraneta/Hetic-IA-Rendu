@@ -50,3 +50,8 @@ Pour utiliser l'application MultiPDF Chat, suivez ces étapes :
     ```
 
 3. L'application se lancera dans votre navigateur web par défaut.
+
+## Pour le futur
+-----
+
+1. Bas je suis pas tres satisfait de mon rendu j'aurai bien plis aimé à le pousser et faire en sorte que tout marche bien mais il m'a manqué du temps. Jaurai bien aimé continuer mon approche avec l'utlisation de HuggingFace pour remplacer Openai et en utilisant ses Embridges.
